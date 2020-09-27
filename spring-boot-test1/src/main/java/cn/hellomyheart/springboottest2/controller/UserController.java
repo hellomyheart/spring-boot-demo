@@ -1,4 +1,4 @@
-package cn.hellomyheart.springboottest1.controller;
+package cn.hellomyheart.springboottest2.controller;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.web.bind.annotation.RequestMapping;
