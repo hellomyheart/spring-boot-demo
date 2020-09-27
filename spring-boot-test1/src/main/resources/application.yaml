@@ -1,4 +1,9 @@
-server:
+base:
   port: 18092
+  context-path: "/test"
+
+
+server:
+  port: ${base.port}
   servlet:
-    context-path: "/test"
+    context-path: ${base.context-path}
