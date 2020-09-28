@@ -1,4 +1,4 @@
-package cn.hellomyheart.springboottest1;
+package cn.hellomyheart.springboottest3;
 
 import org.mybatis.spring.annotation.MapperScan;
 import org.springframework.boot.SpringApplication;

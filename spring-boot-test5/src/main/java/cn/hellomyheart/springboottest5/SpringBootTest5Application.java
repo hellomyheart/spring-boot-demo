@@ -1,4 +1,4 @@
-package cn.hellomyheart.springboottest1;
+package cn.hellomyheart.springboottest5;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
