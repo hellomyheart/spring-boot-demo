@@ -7,6 +7,17 @@ spring:
     #使用阿里巴巴druid数据源，默认使用自带的
     type: com.alibaba.druid.pool.DruidDataSource
 
+  ########## 配置freemarker ##########
+  freemarker:
+    #是否开启缓存
+    cache: true
+    #路径
+    template-loader-path: classpath:/templates
+    #文件后缀
+    suffix: .ftl
+    charset: UTF-8
+    content-type: text/html
+
 # mybatis配置
 mybatis:
   # 配置别名需要扫描的包
