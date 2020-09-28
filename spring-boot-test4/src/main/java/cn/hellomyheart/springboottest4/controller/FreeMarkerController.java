@@ -1,6 +1,6 @@
-package cn.hellomyheart.springboottest1.controller;
+package cn.hellomyheart.springboottest4.controller;
 
-import cn.hellomyheart.springboottest1.entity.Student;
+import cn.hellomyheart.springboottest4.entity.Student;
 import freemarker.template.Configuration;
 import freemarker.template.Template;
 import org.springframework.stereotype.Controller;

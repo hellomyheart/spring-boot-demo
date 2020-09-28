@@ -1,7 +1,7 @@
-package cn.hellomyheart.springboottest1.controller;
+package cn.hellomyheart.springboottest4.controller;
 
-import cn.hellomyheart.springboottest1.entity.TUser;
-import cn.hellomyheart.springboottest1.service.TUserService;
+import cn.hellomyheart.springboottest4.entity.TUser;
+import cn.hellomyheart.springboottest4.service.TUserService;
 import com.github.pagehelper.PageHelper;
 import com.github.pagehelper.PageInfo;
 import org.springframework.beans.factory.annotation.Autowired;

@@ -1,8 +1,8 @@
-package cn.hellomyheart.springboottest1.service.impl;
+package cn.hellomyheart.springboottest3.service.impl;
 
-import cn.hellomyheart.springboottest1.entity.TUser;
-import cn.hellomyheart.springboottest1.mapper.TUserMapper;
-import cn.hellomyheart.springboottest1.service.TUserService;
+import cn.hellomyheart.springboottest3.entity.TUser;
+import cn.hellomyheart.springboottest3.mapper.TUserMapper;
+import cn.hellomyheart.springboottest3.service.TUserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

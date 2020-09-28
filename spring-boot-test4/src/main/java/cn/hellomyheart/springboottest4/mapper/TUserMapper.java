@@ -1,6 +1,6 @@
-package cn.hellomyheart.springboottest1.mapper;
+package cn.hellomyheart.springboottest4.mapper;
 
-import cn.hellomyheart.springboottest1.entity.TUser;
+import cn.hellomyheart.springboottest4.entity.TUser;
 import org.springframework.stereotype.Repository;
 
 import java.util.List;

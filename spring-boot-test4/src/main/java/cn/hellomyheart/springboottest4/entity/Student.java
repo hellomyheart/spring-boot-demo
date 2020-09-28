@@ -1,4 +1,4 @@
-package cn.hellomyheart.springboottest1.entity;
+package cn.hellomyheart.springboottest4.entity;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

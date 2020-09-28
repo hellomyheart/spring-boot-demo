@@ -1,6 +1,6 @@
-package cn.hellomyheart.springboottest1.controller;
+package cn.hellomyheart.springboottest4.controller;
 
-import cn.hellomyheart.springboottest1.exception.MyException;
+import cn.hellomyheart.springboottest4.exception.MyException;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 

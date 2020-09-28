@@ -1,6 +1,6 @@
-package cn.hellomyheart.springboottest1.controller;
+package cn.hellomyheart.springboottest5.controller;
 
-import cn.hellomyheart.springboottest1.entity.User;
+import cn.hellomyheart.springboottest5.entity.User;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.RequestMapping;

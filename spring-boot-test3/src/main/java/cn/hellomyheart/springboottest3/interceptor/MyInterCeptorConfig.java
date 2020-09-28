@@ -1,5 +1,6 @@
-package cn.hellomyheart.springboottest1.interceptor;
+package cn.hellomyheart.springboottest3.interceptor;
 
+import cn.hellomyheart.springboottest3.interceptor.MyInterceptor;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.web.servlet.config.annotation.InterceptorRegistry;
 import org.springframework.web.servlet.config.annotation.WebMvcConfigurer;

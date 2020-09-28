@@ -1,4 +1,4 @@
-package cn.hellomyheart.springboottest1.entity;
+package cn.hellomyheart.springboottest3.entity;
 
 import java.io.Serializable;
 import lombok.Data;

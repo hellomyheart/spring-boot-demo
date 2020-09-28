@@ -1,4 +1,4 @@
-package cn.hellomyheart.springboottest1.exception;
+package cn.hellomyheart.springboottest2.exception;
 
 /**
  * @description

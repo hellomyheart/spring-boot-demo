@@ -1,4 +1,4 @@
-package cn.hellomyheart.springboottest1.interceptor;
+package cn.hellomyheart.springboottest2.interceptor;
 
 import org.springframework.web.servlet.HandlerInterceptor;
 import org.springframework.web.servlet.ModelAndView;

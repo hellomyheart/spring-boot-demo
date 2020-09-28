@@ -1,5 +1,6 @@
-package cn.hellomyheart.springboottest1.exception;
+package cn.hellomyheart.springboottest2.exception;
 
+import cn.hellomyheart.springboottest2.exception.MyException;
 import org.springframework.web.bind.annotation.ExceptionHandler;
 import org.springframework.web.bind.annotation.RestControllerAdvice;
 
