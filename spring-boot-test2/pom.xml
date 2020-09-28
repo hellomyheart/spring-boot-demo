@@ -11,7 +11,7 @@
     <groupId>cn.hellomyheart</groupId>
     <artifactId>spring-boot-test2</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>spring-boot-test1</name>
+    <name>spring-boot-test2</name>
     <description>Demo project for Spring Boot</description>
 
     <properties>

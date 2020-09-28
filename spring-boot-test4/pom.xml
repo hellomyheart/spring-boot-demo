@@ -9,9 +9,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>cn.hellomyheart</groupId>
-    <artifactId>spring-boot-test3</artifactId>
+    <artifactId>spring-boot-test4</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>spring-boot-test3</name>
+    <name>spring-boot-test4</name>
     <description>Demo project for Spring Boot</description>
 
     <properties>
