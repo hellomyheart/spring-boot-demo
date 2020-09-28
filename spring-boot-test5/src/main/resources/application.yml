@@ -7,6 +7,16 @@ spring:
     #使用阿里巴巴druid数据源，默认使用自带的
     type: com.alibaba.druid.pool.DruidDataSource
 
+  #配置thymeleaf
+  thymeleaf:
+    cache: false
+    encoding: utf-8
+    prefix: classpath:/teamplates
+    suffix: .html
+    mode: HTML5
+    servlet:
+      content-type: text/html
+
 #  ########## 配置freemarker ##########
 #  freemarker:
 #    #是否开启缓存
